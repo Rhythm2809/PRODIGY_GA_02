@@ -1,7 +1,3 @@
-Here's a detailed explanation you can use in your README file for **Task-02: Image Generation with Pre-trained Models**, based on your provided script (`task2.py`) and the task description.
-
----
-
 ## 🧠 Task-02: Image Generation with Pre-trained Models
 
 ### 📝 Objective
